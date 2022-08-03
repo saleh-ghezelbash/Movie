@@ -1,14 +1,21 @@
 # Movie
 
-This template should help get you started developing with Vue 3 in Vite.
+This Movie template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+## What i used in this project
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+- node version 16
+- vue js version 3
+- tailwind css
+- vue-datepicker
+- vue-router
+- fortawesome
+- axios
 
-## Customize configuration
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## What i learned in this project
+
+- how work with themoviedb API
 
 ## Project Setup
 
