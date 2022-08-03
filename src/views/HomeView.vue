@@ -64,7 +64,7 @@ export default {
       genreList: [],
       page: 1,
       totalPages: 1,
-      totalItems: 1,
+      totalItems: 0,
       loading: false,
       releaseDate: ["", ""],
       textInputOptions: {
